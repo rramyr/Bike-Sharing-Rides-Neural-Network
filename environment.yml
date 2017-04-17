@@ -1,0 +1,16 @@
+name: dlnd
+dependencies:
+- jupyter
+- pandas
+- python=3.6
+- numpy
+- matplotlib
+- scikit-learn
+- pip:
+    - mistune
+    - bokeh
+    - Flask
+    - autopep8
+    - nbconvert
+    - ghp-import
+
